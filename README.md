@@ -14,7 +14,7 @@
 
 
 ## Description
-Claire who is the owner of Eau Claire's Hair Salon, and this is an MVC web application to help Claire manage her employees (stylists) and their clients. Claire is able to add a list of stylists working at the salon, and for each stylist, add clients who see that stylist. The stylists have specific specialties, so each client can only see (belong to) a single stylist.
+Claire is the owner of _Eau Claire's Hair Salon_, and this is an MVC web application to help Claire manage her employees (stylists) and their clients. Claire is able to add a list of stylists working at the salon, and for each stylist, add clients who see that stylist. The stylists have specific specialties, so each client can only see (belong to) a single stylist.
 
 ### Schema
 ![Schema](./HairSalon/wwwroot/img/schema1.png)
