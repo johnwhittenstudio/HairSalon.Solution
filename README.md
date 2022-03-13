@@ -47,11 +47,11 @@ Claire is the owner of _Eau Claire's Hair Salon_, and this is an MVC web applica
 - Navigate to the tab called **Import Progress** and click **Start Import** at the bottom right corner of the window.
 - After you are finished with the above steps, reopen the **Navigator > Schemas** tab. Right click and select **Refresh All**. Your new test database will appear.
 - Navigate to BestRest: ```$ cd HairSalon``` and type the following command in the terminal ```$ touch appsettings.json```
-- Navigate to the appsettings.json file ```$ cd appsettings.json``` and enter:
+- In the appsettings.json file enter the following code:
 ```
 {
     "ConnectionStrings": {
-        "DefaultConnection": "Server=localhost;Port=3306;database=best_rest;uid=root;pwd=[YOUR-PASSWORD-HERE];"
+        "DefaultConnection": "Server=localhost;Port=3306;database=john_whitten;uid=root;pwd=[YOUR-PASSWORD-HERE];"
     }
 }
 ```
