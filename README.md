@@ -58,7 +58,7 @@ Claire is the owner of _Eau Claire's Hair Salon_, and this is an MVC web applica
 
 ### Run the project
 - Navigate to BestRest: ```$ cd HairSalon``` and type the following command in the terminal ```$ dotnet restore```
-- Run the program in the console with the command ```$ dotnet build```
+- Build the program in the console with the command ```$ dotnet build```
 - Run the program in the console with the command ```$ dotnet run```
 
 ## Known Bugs
